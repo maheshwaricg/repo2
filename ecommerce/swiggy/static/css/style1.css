@@ -1,10 +1,10 @@
 body{
-    background-image: url('/static/images/.jpg');
-
+    margin:0;
+    padding: 0;
 }
-#heading{
-    color: darkblue;
-    text-align: center;
-}
-
+.center{
+    position:absolute;
+   
     
+
+}
